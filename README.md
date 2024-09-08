@@ -1,4 +1,4 @@
-[![https://github.com/marinairis/python-para-analise-dados-v2/ebac_logo_black_half.png]]
+[![](https://github.com/marinairis/python-para-analise-dados-v2/blob/main/ebac_logo_black_half.png)](https://github.com/marinairis/python-para-analise-dados-v2)
 
 <details open>
   <summary>
