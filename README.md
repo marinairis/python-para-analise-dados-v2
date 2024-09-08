@@ -1,3 +1,5 @@
+[![https://github.com/marinairis/python-para-analise-dados-v2/ebac_logo_black_half.png]]
+
 <details open>
   <summary>
     <h1>Python para Análise de Dados</h1>
